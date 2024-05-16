@@ -1,0 +1,39 @@
+#top-container {
+    padding-top: 40px;
+}
+
+#bottom-container {
+    margin-top: 30px;
+}
+
+#main-content {
+    text-align: center;
+    margin-top: 50px;
+}
+
+[alt="logo"]{
+    height: 85px;
+    border-radius: 50%;
+
+}
+
+#top-container{
+    margin-top: 30px;
+    background-image: url(images/Bayway-Catering-bagels.jpg);
+    background-repeat: no-repeat;
+        background-size: cover;
+}
+
+#main-content{
+    background-color: antiquewhite;
+    opacity: 0.8;
+    padding: 10px;
+}
+
+.card {
+    background-color: antiquewhite !important;
+}
+
+.bottom-img{
+    padding: 20px;
+}
